@@ -1,0 +1,65 @@
+form {
+	padding: 5px;
+	text-align: center;
+}
+
+form input {
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid #ccc;
+	width: 25%;
+}
+
+.featured-post {
+	margin: 50px 100px 150px 100px;
+}
+
+.featured-post h2 {
+	font-size: 36px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.post-image {
+	float: left;
+	margin-right: 20px;
+}
+
+.post-image img {
+	width: 350px;
+	height: 180px;
+	object-fit: cover;
+}
+
+.post-excerpt h3 {
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 0;
+}
+
+.post-excerpt p {
+	font-size: 18px;
+	line-height: 1.5;
+	margin-bottom: 20px;
+}
+
+.button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.button1 {
+	border-radius: 10px;
+}
+
+.button1:hover{
+	background-color: rgb(42, 166, 243);
+}
